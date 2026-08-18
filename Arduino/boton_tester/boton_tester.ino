@@ -1,3 +1,4 @@
+// prueba de sincronizacion git
 void setup() {
   Serial.begin(9600);
   pinMode(4, INPUT_PULLUP);
